@@ -1,0 +1,76 @@
+.entete {
+    height: 100px;
+    width: 100%;
+}
+.img {
+    width: 270px;
+    float: left;
+    position: relative;
+}
+.titresite {
+    width: 50%;
+    position: relative;
+    padding-bottom: 14px;
+    font-size: 38px;
+    margin-left: 45%;
+    font-weight: 200;
+
+}
+
+.navigation {
+    background-color: black;
+    width: 100%;
+    height: auto;
+    margin: 13px 0px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.navigation li {
+    display: inline;
+}
+
+a { 
+    color:white;
+}
+
+
+.promo {
+    width: 2400px;
+    max-width: 100%;
+    height: auto;
+
+   }
+
+.acceuil {
+    margin-top: 15px;
+    position: relative;
+}
+.titre {
+    font-size: 45px;
+    }
+
+
+.sidebar {
+    float: right;
+    border-style: solid;
+    padding: 2px;
+    padding-left: 20px;
+    width: 200px;
+    height: 560px;
+    background-color: rgb(224, 221, 221);
+    border:1px transparent;
+}
+
+.menu {
+    background-color: black;
+    width: 100%;
+    height: auto;
+    margin: 13px 0px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.menu li {
+display: inline;
+}
