@@ -1,0 +1,14 @@
+h1 
+{
+    color: red;    
+    border: 2px solid blue;    
+    background-color: yellow;    
+    font-family: verdana; 
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 1000;
+} 
+img
+{
+    border: 2px solid;
+}
